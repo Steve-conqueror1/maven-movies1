@@ -1,0 +1,15 @@
+com\accenture\itfactory\oop\movies\IOUtil.class
+com\accenture\itfactory\oop\movies\Movie.class
+com\accenture\itfactory\oop\movies\UserData.class
+com\accenture\itfactory\oop\movies\MovieStore.class
+com\accenture\itfactory\oop\movies\UserStore.class
+com\accenture\itfactory\oop\movies\Administrator.class
+com\accenture\itfactory\oop\movies\Film.class
+com\accenture\itfactory\oop\movies\MovieRepositoryImpl.class
+com\accenture\itfactory\oop\movies\Review.class
+com\accenture\itfactory\oop\movies\UserType.class
+com\accenture\itfactory\oop\movies\UserRepository.class
+com\accenture\itfactory\oop\movies\MovieRepository.class
+com\accenture\itfactory\oop\movies\Main.class
+com\accenture\itfactory\oop\movies\User.class
+com\accenture\itfactory\oop\movies\UserRepositoryImpl.class
